@@ -10,3 +10,5 @@ word count: i am best
 what is python?
 github-----> 
 streamlit cloud free deploy
+app link
+https://ml-project-gemini-ai-agent.streamlit.app/
