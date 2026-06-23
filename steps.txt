@@ -1,1 +1,12 @@
-
+uv init
+venv create and activate
+tools.py
+.env
+app.py
+streamlit run app.py
+Questions:
+3*4+5
+word count: i am best
+what is python?
+github-----> 
+streamlit cloud free deploy
